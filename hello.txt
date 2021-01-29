@@ -1,5 +1,5 @@
 hello git
 456
-dev first
+dev first   dev-conflict
 
 feature first
